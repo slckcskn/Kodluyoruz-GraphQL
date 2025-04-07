@@ -1,6 +1,6 @@
 # graphql-exercise-1
 
-![Odev-1](graphql-odev-1.jpg)
+![Odev-1](graphql-odev-1.JPG)
 
 Temel olarak User, Event, Location ve Participant tiplerini oluşturmalısınız. Bu tiplerle alakalı fieldları veri seti üzerinden görüntüleyebilirsiniz.
  Bir User'a ait bir veya birden fazla Event olabilir.
